@@ -9,7 +9,7 @@ duration = ""
 fee = ""
 image = "images/courses/course-6.jpg"
 teacher = "Duis Rio"
-title = "Podcast Episode 1 : Addmaya-(copy)"
+title = "Podcast Episode 3 : The story of the sound guy with Edison Muhwezi"
 type = "Podcast"
 weekly = ""
 
