@@ -2,13 +2,13 @@
 label: Course
 hide_body: false
 fields:
-- type: text
-  name: title
-  label: title
 - type: datetime
   name: date
   label: date
   hidden: true
+- type: text
+  name: title
+  label: title
 - type: file
   name: bg_image
   label: bg image
