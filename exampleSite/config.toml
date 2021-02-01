@@ -137,7 +137,7 @@ contact_form_action = "#"
 description = "This is meta description"
 email = "info@thecreativeasylum.com"
 google_analitycs_id = ""
-logo = "/images/the-creative-asylum-logo-02.png"
+logo = "/images/logo.png"
 mobile = "+256779425601"
 top_header = true
 [params.cookies]
