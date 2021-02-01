@@ -27,10 +27,11 @@ banner_feature:
   enable: true
   image: images/banner/banner-feature.png
   feature_item:
-  - name: Our Notice Board
+  - name: Our Vision
     icon: ti-blackboard
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore  dolore magna aliqua. Ut enim ad
+    content: 'Our hope and dream is to build an environment for in depth and productive
+      exchange of questions and answers to help build individuals, businesses and
+      nations. '
   - name: Our Achievements
     icon: ti-agenda
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
