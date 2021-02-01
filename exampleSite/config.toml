@@ -72,7 +72,7 @@ description = "This is meta description"
 email = "info@thecreativeasylum.com"
 google_analitycs_id = ""
 logo = "/images/logo-website.png"
-mobile = "+256779425601"
+mobile = ""
 top_header = true
 [params.cookies]
 enable = true
