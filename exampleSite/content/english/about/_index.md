@@ -1,5 +1,5 @@
 ---
-title: About Us
+title: About the mad house
 bg_image: images/backgrounds/page-title.jpg
 image: images/about/about-page.jpg
 description: We are an organization part of the BOHX group of companies with a passion
