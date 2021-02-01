@@ -16,5 +16,4 @@ weekly = ""
 +++
 ### About Podcast
 
-In this episode of madhouse we talk to Peter the founder of Addmaya a production company based in Kampala about the inspiration of starting the company, building its reputation and how they overcame all the challenges and failure.  
-Website : [www.addmaya.com](https://podcasts.google.com/www.addmaya.com)
+In this Episode of Madhouse, we speak to [O](https://ug.linkedin.com/in/kye-makyeli-5380b258)both Isaac the CEO of Media 256 about how he got his start into film and video his challenges and values and how he plans to tell the story.
