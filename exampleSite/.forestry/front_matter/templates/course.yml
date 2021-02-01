@@ -21,10 +21,6 @@ fields:
   name: image
   label: image
 - type: text
-  name: category
-  label: category
-  description: course category
-- type: text
   name: teacher
   label: teacher
   description: 'Ex: John Doe'
