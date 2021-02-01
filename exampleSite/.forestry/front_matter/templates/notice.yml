@@ -24,3 +24,5 @@ fields:
   name: type
   label: type
   default: notice
+pages:
+- exampleSite/content/english/notice/podcast-episode-1-addmaya.md
