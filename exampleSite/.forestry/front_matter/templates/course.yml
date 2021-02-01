@@ -43,6 +43,7 @@ fields:
   name: apply_url
   label: apply_url
   description: Application submit link
+  hidden: true
 - type: text
   name: type
   label: type
