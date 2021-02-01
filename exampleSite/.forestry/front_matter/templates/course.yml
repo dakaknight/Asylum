@@ -41,6 +41,7 @@ fields:
   name: fee
   label: fee
   description: Course fee
+  hidden: true
 - type: text
   name: apply_url
   label: apply_url
