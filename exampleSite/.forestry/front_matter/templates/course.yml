@@ -27,6 +27,7 @@ fields:
   name: teacher
   label: teacher
   description: 'Ex: John Doe'
+  hidden: true
 - type: text
   name: duration
   label: duration
