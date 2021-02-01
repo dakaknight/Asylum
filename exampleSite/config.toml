@@ -184,7 +184,7 @@ link = "https://www.facebook.com/thecreativeasylum/"
 title = "facebook"
 [[params.social]]
 icon = "ti-twitter-alt"
-link = "#"
+link = "https://twitter.com/creativesasylum?lang=en"
 title = "twitter"
 [[params.social]]
 icon = "ti-instagram"
