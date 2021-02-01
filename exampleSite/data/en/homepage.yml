@@ -36,10 +36,10 @@ banner_feature:
     icon: ti-agenda
     content: To foster a culture of people that ask questions and solve everyday problems
       to grow, disrupt and foster the future of Africa.
-  - name: Admission Now
+  - name: Areas of Interest
     icon: ti-write
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore  dolore magna aliqua. Ut enim ad
+    content: "Education. \nTalent and creative Showcase. \nGrowth and network. \nCommunity
+      development.\nCreative content Distribution"
 about:
   enable: true
   title: About The Creative Asylum
