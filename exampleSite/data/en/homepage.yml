@@ -62,7 +62,7 @@ about:
     label: Learn more
     link: about
 course:
-  enable: true
+  enable: false
   title: ''
 cta:
   enable: false
