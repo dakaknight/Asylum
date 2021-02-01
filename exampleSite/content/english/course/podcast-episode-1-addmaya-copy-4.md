@@ -16,5 +16,4 @@ weekly = ""
 +++
 ### About Podcast
 
-In this episode of madhouse we talk to Peter the founder of Addmaya a production company based in Kampala about the inspiration of starting the company, building its reputation and how they overcame all the challenges and failure.  
-Website : [www.addmaya.com](https://podcasts.google.com/www.addmaya.com)
+In this Episode of Madhouse we speak to [**E**](https://ug.linkedin.com/in/kye-makyeli-5380b258)**dison Muhwezi AKA "The sound guy "**about how he got into audio engineering for live events and how it has been for him so far with all the cool opportunities he has been graced to work on.
