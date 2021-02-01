@@ -32,10 +32,10 @@ banner_feature:
     content: 'Our hope and dream is to build an environment for in depth and productive
       exchange of questions and answers to help build individuals, businesses and
       nations. '
-  - name: Our Achievements
+  - name: Our Misson
     icon: ti-agenda
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore  dolore magna aliqua. Ut enim ad
+    content: To foster a culture of people that ask questions and solve everyday problems
+      to grow, disrupt and foster the future of Africa.
   - name: Admission Now
     icon: ti-write
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
