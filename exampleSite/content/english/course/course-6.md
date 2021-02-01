@@ -7,7 +7,7 @@ description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do ei
   nostrud.
 image: "/images/admaya.jpg"
 category: Podcast
-teacher: Duis Rio
+teacher: ''
 duration: ''
 weekly: ''
 fee: ''
