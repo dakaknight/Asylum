@@ -4,7 +4,6 @@ bg_image = "images/backgrounds/page-title.jpg"
 category = "Podcast"
 date = 2019-03-05T07:00:00Z
 description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
-draft = true
 duration = ""
 fee = ""
 image = "images/courses/course-6.jpg"
