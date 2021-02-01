@@ -4,7 +4,6 @@ bg_image = ""
 category = "Podcast"
 date = 2019-03-05T07:00:00Z
 description = "In this episode of madhouse we talk to Peter Mukibi the founder of Addmaya a production company based in Kampala. "
-draft = true
 duration = "40 min"
 fee = ""
 image = "/images/admaya.jpg"
