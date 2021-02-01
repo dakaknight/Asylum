@@ -1,14 +1,13 @@
 ---
 title: 'Podcast Episode 1 : Addmaya'
 date: 2019-03-05T07:00:00+00:00
-bg_image: images/backgrounds/page-title.jpg
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
-  nostrud.
+bg_image: ''
+description: 'In this episode of madhouse we talk to Peter Mukibi the founder of Addmaya
+  a production company based in Kampala. '
 image: "/images/admaya.jpg"
 category: Podcast
 teacher: ''
-duration: ''
+duration: 40 min
 weekly: ''
 fee: ''
 apply_url: "#"
