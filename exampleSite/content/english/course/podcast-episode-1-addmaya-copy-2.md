@@ -16,5 +16,4 @@ weekly = ""
 +++
 ### About Podcast
 
-In this episode of madhouse we talk to Peter the founder of Addmaya a production company based in Kampala about the inspiration of starting the company, building its reputation and how they overcame all the challenges and failure.  
-Website : [www.addmaya.com](https://podcasts.google.com/www.addmaya.com)
+In this Episode of Madhouse we speak to [**C**](https://ug.linkedin.com/in/kye-makyeli-5380b258)**lare Musila the creative director and owner of Ruka jewelry** about how she got her start into jewelry design her challenges and values and how she plans to grow her business.
